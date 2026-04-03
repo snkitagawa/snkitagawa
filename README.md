@@ -7,8 +7,9 @@
 
 ## `$　whoami`
 
-> A **Software Engineer** who has been programming since the age of **11**, driven by curiosity and a genuine passion for technology.
-> **Computer Lover** 💻 | **Music Production & Audio Engineering Lover** 🎧 | **Passionate about Neuroscience & Psychology** 🧠 | **Dedicated Educator** 🎓 | **Video Game Player** 🎮
+> *A **Software Engineer** who has been programming since the age of **11**, driven by curiosity and a genuine passion for technology.*  
+> ***Computer Lover** | **Music Production & Audio Engineering Lover** | **Passionate about Neuroscience & Psychology** |*  
+> ***Dedicated Educator** | **Video Game Player***  
 
 ```lua
 local snkitagawa = {
